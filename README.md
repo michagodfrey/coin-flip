@@ -18,4 +18,4 @@ From here I will be practicing more and learning Express and MongoDB.
 
 I want to thank Leon for making an [awesome free bootcamp](https://leonnoel.com/100devs/). I want be more involved with this to help others and learn faster.
 
-I was able to make the code by studing code in [this fantastic example](https://codingartistweb.com/2021/05/flip-a-coin-html-css-javascript/)
+I was able to make the CSS for the flip animation by studing code in [this fantastic example](https://codingartistweb.com/2021/05/flip-a-coin-html-css-javascript/)
